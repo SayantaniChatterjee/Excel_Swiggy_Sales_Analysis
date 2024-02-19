@@ -1,1 +1,1 @@
-# Excel_Swiggy_Sales_Analysis
+The pizza sales dataset contains detailed information on pizza orders. Utilizing SQL analysis and Power BI visualization, the dataset offers insights into popular pizza categories, sales trends, top-selling items, average order value, peak ordering times, and customer preferences. This data enables informed decision-making in marketing, inventory management, and product offerings within the pizza industry.
